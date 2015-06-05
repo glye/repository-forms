@@ -175,6 +175,10 @@
                 <source>field_definition.ezbinaryfile.max_file_size</source>
                 <target>Maximum file size (MB)</target>
             </trans-unit>
+            <trans-unit id="128">
+                <source>field_definition.ezpage.default_layout</source>
+                <target>Default layout</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
